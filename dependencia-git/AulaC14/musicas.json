@@ -1,0 +1,24 @@
+{
+  "playlist": [
+    {
+      "nome": "Bohemian Rhapsody",
+      "duracao": "5:55"
+    },
+    {
+      "nome": "Hotel California",
+      "duracao": "6:30"
+    },
+    {
+      "nome": "Smells Like Teen Spirit",
+      "duracao": "5:01"
+    },
+    {
+      "nome": "Scar Tissue",
+      "duracao": "3:35"
+    },
+    {
+      "nome": "Stairway to Heaven",
+      "duracao": "8:00"
+    }
+  ]
+}
